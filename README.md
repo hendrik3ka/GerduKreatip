@@ -10,4 +10,4 @@ GerduKreatip is an html template with a UI designed by Andreansyah Setiawan.
 * mixitup
 * popover
 
-Demo https://cdn.rawgit.com/hendrik3ka/GerduKreatip/master/index.html
+[Demo] (https://cdn.rawgit.com/hendrik3ka/GerduKreatip/master/index.html)
